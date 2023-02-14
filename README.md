@@ -17,7 +17,7 @@ A fictional web developer wishes to generate simple logos for their projects.
 https://user-images.githubusercontent.com/121476474/218721677-db65d4b5-3954-43c3-a8d5-f50e5bc02cda.mp4
 
 
-Following installation (npm i) the application is initialised from the command line using 'node index.js'. It will prompt the user for the text (restricted to 3 characters), text colour, shape (chosen from a list containing Circle, Triangle, and Square), and shape colour. It will then validate the colours against a regex and a list of valid hex codes and substitute default colours (light grey for the shape and/or dark grey for the text) if the user-inputted colours are invalid.
+Following installation (npm i) the application is initialised from the command line using 'node index.js'. It will prompt the user for the text (restricted to 3 characters), text colour, shape (chosen from a list containing Circle, Triangle, and Square), and shape colour. It will then validate the colours against a regex checking the validity of hex code and against a list of CSS colour presets. It will substitute default colours (light grey for the shape and/or dark grey for the text) if the user-inputted colours are invalid.
 
 Thereupon, it will produce a 300x200 svg file in the examples directory, and display a success message in the console.
 
