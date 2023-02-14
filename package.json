@@ -2,7 +2,29 @@
   "dependencies": {
     "css-color-names": "^1.0.1",
     "inquirer": "8.2.4",
-    "inquirer-maxlength-input-prompt": "^1.0.2",
-    "jest": "^24.9.0"
-  }
+    "inquirer-maxlength-input-prompt": "^1.0.2"
+
+  },
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "description": "A simple generator of a shape and a three-letter text string given user input.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "devDependencies": {"jest": "^24.9.0"},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadcos29/logo-generator.git"
+  },
+  "author": "TGC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tadcos29/logo-generator/issues"
+  },
+  "homepage": "https://github.com/tadcos29/logo-generator#readme"
 }
