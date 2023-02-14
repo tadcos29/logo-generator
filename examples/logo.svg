@@ -1,4 +1,4 @@
-<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg"><polygon fill='fuchsia' points='250,60 60,400 440,400' />
-        <text x='50%' y='55%' style='font-size: 7vh;' text-anchor='middle' fill='darkgray'>JAA</text>
+<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg"><rect fill='lightgray' x='60' y='12' width='180' height='180'/>
+        <text x='50%' y='55%' style='font-size: 5vh;' text-anchor='middle' fill='#332233'>ooa</text>
         </svg>
         
